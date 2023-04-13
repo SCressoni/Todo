@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ucMoqEzz5J2xxvYs+6GE+EiEGYeRL9A9bfkKzRqx4jdLK+vhdUJIMtgERWPbCfOZ+mKwofoRfLxTxiCy+/y4aw==",
+  "success": true,
+  "projectFilePath": "/Users/silviocressoni/Documents/Code/Dotnet/Projects/Balta/Todo/Todo.Domain/Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/silviocressoni/.nuget/packages/flunt/1.0.4/flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
